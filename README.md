@@ -1,5 +1,5 @@
 ## CBRO
 
 ```
-Adjusted Anti-Aim and Rage, should work now
+it's currently patched, i don't know when i'm gonna update it.
 ```
